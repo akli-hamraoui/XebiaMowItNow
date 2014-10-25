@@ -1,7 +1,7 @@
 XebiaMowItNow
 =============
 
-Xebia exercice for MoreItNow
+Xebia MowItNow exercice.
 
 In this exercice i put two csv files data.csv to inject data, and result.csv witch contains the result position of morow.
 The Unit test is in com.xebia.exercice.mower.services.MowerServiceTest.java.
