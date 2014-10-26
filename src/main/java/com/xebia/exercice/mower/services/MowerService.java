@@ -38,7 +38,6 @@ public class MowerService implements IMowerService {
 						+ Inst);
 			}
 			switch (enumInst) {
-			// A A D A A D A D D A 3 3 E
 			case A:
 				EOrientation or = mower.getOrientation();
 				switch (or) {
