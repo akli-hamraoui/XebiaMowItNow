@@ -23,8 +23,8 @@ import com.xebia.exercice.mower.model.Mower;
  */
 public class MowerServiceTest {
 
-	String injectedData = "src/test/resources/data.csv";
-	String resultData = "src/test/resources/result.csv";
+	final static String injectedData = "src/test/resources/data.csv";
+	final static String resultData = "src/test/resources/result.csv";
 
 	MowerService mowerService;
 
